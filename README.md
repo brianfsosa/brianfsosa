@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 *   🌍  I'm based in Argentina
-*   🖥️  See my portfolio at [https://brianfsosa.tech/](target='_blank'https://brianfsosa.tech/)
+*   🖥️  See my portfolio at [https://brianfsosa.tech/](https://brianfsosa.tech/)
 *   ✉️  You can contact me at [brianfsosa@gmail.com](mailto:brianfsosa@gmail.com)
 *   🧠  I'm learning React JS
 <p align="left">
