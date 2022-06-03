@@ -4,7 +4,7 @@ Hi 👋 My name is Brian Sosa
 Software Developer
 ------------------
 
-*   🌍  I'm based in Argentina
+*   🌍  I'm based in Argenti
 *   🖥️  See my portfolio at [https://brianfsosa.tech/](https://brianfsosa.tech/)
 *   ✉️  You can contact me at [brianfsosa@gmail.com](mailto:brianfsosa@gmail.com)
 *   🧠  I'm learning React JS
