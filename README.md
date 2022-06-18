@@ -1,4 +1,4 @@
-Hi 👋 My name is Brian Sos
+Hi 👋 My name is Brian Sosa
 ===========================
 
 Software Developer
